@@ -1,0 +1,4 @@
+OasysEIMS5.MosomIV
+
+DESKTOP-2BTT1NS
+"git remote 테스트"
